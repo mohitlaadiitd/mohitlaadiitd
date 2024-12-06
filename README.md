@@ -5,8 +5,8 @@
   I am Mohit Laad, a full stack engineer, equipped with multiple programming languages and technologies. Always up for solving technical problems, feel free to reach out to me via my Linktree. 
 </p>
 <p>
-<a href="https://www.reddit.com/user/harsh6372"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/harshit-gupta-1aa74311b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linktr.ee/mohitlaadiitd"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohit-laad-7b164a1a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align = "left">
